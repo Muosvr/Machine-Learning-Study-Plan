@@ -66,7 +66,6 @@ placeholder* - more concrete lesson plan TBD
 [Data Science: Inference and Modeling (edx by Harvard University) (8 to 16 hours)](https://www.edx.org/course/data-science-inference)
 
 [Data Science Specialization (Coursera by Johns Hopkins University) (192 hours) ($49/ month)](https://www.coursera.org/specializations/jhu-data-science)
-
 Courses: The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Data, Exploratory Data Analysis, Reproducible Research, Statistical Inference, Regression Models, Practical Machine Learning, Developing Data Products, Data Science Capstone
 
 # Data Engineering
@@ -74,7 +73,6 @@ Courses: The Data Scientist’s Toolbox, R Programming, Getting and Cleaning Dat
 [Data Engineering on Google Cloud Platform Specialization (Coursera by Google) (30 - 45 hours) ($49/ month)](https://www.coursera.org/specializations/gcp-data-machine-learning)
 
 [Big Data for Data Egnineers Specialization($49/ month) (126 - 168 hours plus project)](https://www.coursera.org/specializations/big-data-engineering)
-
 Tech stack: Hadoop, MapReduce, Spark, methods of offline data processing for warehousing, real-time data processing and large-scale machine learning
 
 
