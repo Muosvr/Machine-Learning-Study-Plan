@@ -1,4 +1,4 @@
-# MachineLearningStudyPlan
+# Machine Learning Study Plan
 
 # Core skills:
 * Machine Learning Algorithms and Libraries(Pytorch, Tensorflow, sklearn)
