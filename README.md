@@ -3,7 +3,7 @@
 # Core skills:
 * Machine Learning Algorithms and Libraries(Pytorch, Tensorflow, sklearn)
 * Computer Science Fundamentals (Debugging, data structures, algorithms, oop)
-* Software Engineering & System Design (testability)
+* Software Engineering & System Design
 * Distributed Computing
 * Data Modeling & Evaluation
 * Data Engineering (data processing, SQL, NoSQL, ETL)
@@ -43,7 +43,7 @@ placeholder* - more concrete lesson plan TBD
 
 [Deep Learning Udacity Nano Degree(Udacity) (4 months, 12 hr/week) ($999)](https://www.udacity.com/course/deep-learning-nanodegree--nd101)
 
-# Software Engineering & System Design (testability)
+# Software Engineering & System Design
 
 [Top 10 System Design Interview Questions (placeholder*)](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 
@@ -54,7 +54,7 @@ placeholder* - more concrete lesson plan TBD
 
 [Cloud Computing Specialization (Coursera by University of Illinois) (30 - 60 hours) (49/month)](https://www.coursera.org/specializations/cloud-computing)
 
-[Introduction to Cloud Infrastructure Technologies (edx by the Linux Foundation) (36 - 48 hours) (free)](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
+[Introduction to Cloud Infrastructure Technologies (edx by the Linux Foundation) (36 - 48 hours)](https://www.edx.org/course/introduction-to-cloud-infrastructure-technologies)
 
 [Cloud Computing Infrastructure (edx by University of Maryland) (64 - 80 hours)](https://www.edx.org/course/cloud-computing-infrastructure)
 
