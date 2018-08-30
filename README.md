@@ -29,7 +29,7 @@ placeholder* - more concrete lesson plan TBD
 
 [Intro to Algorithms, Recursion, Stacks and Queues, Binary Trees, and Heaps](https://brilliant.org/courses/computer-science-fundamentals/)
 
-[Teach Yourself Computer Science (100 - 200 hours)](https://teachyourselfcs.com/)
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 # Machine Learning Algorithms and Libraries
 
