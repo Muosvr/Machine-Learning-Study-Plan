@@ -1,8 +1,8 @@
 # Machine Learning Study Plan
 
 # Core skills:
-* Machine Learning Algorithms and Libraries(Pytorch, Tensorflow, sklearn)
 * Computer Science Fundamentals (Debugging, data structures, algorithms, oop)
+* Machine Learning Algorithms and Libraries(Pytorch, Tensorflow, sklearn)
 * Software Engineering & System Design
 * Distributed Computing
 * Data Modeling & Evaluation
